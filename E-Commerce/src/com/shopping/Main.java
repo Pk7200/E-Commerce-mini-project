@@ -20,7 +20,7 @@ public class Main {
                 Cart.run(sc);
                 CartList.run(sc);// list of products added into cart
             } else {
-                System.out.println("bye");
+                System.out.println("Thank u");
             }
         }
 
